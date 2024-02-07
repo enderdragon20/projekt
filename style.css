@@ -75,3 +75,8 @@ a:hover{
     color: yellow;
     font-weight: bold;
 }
+
+footer{
+    background-color: skyblue;
+    border-radius: 500px;
+}
