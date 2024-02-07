@@ -1,8 +1,18 @@
 body{
     background-color: black;
+    
 
 }
 
+.image-with-text{
+
+    display:flex;
+    align-items: center;
+    text-align: text;
+
+}
+
+p
 
 header{    
     background-position: center center;
@@ -12,7 +22,7 @@ header{
 
 h1{
 
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: Verdana, Tahoma, sans-serif;
     color: yellow;
     font-weight: bold;
     margin-top: 150px;
@@ -30,7 +40,7 @@ h2{
 
 h3{    
     font-weight: bold;
-    color: #894f3b;    
+    color: #fffb00;    
     text-align: center;
     font-size: 1.3rem;
     letter-spacing: 1px;
@@ -80,3 +90,6 @@ footer{
     background-color: skyblue;
     border-radius: 500px;
 }
+
+
+ 
